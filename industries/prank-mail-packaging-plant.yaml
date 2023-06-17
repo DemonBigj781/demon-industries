@@ -1,0 +1,17 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- Poop
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 100
+id: 1
+layout:
+- - - -1
+name: Prank Mail Packaging Plant
+placement: in-town
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary

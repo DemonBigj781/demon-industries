@@ -27,4 +27,4 @@ tiles:
       filename: industries/toilet/1.png
       left: -30
       top: -6
-type: tertiary
+type: primary
