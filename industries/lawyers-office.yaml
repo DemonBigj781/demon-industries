@@ -8,11 +8,22 @@ colour: 1
 fundCostMultiplier: 100
 id: 2
 layout:
-- - - -1
+- - - 0
 name: 'Lawyer''s Office '
 placement: in-town
 probabilityInGame: 5
 probabilityMapGen: 3
 prospectChance: 0
-tiles: []
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/lawyers-office/1.png
+      left: -28
+      top: -13
 type: secondary
