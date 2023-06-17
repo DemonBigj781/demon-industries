@@ -1,0 +1,17 @@
+abbreviation: LP
+available: false
+classes: 1
+colour: 1
+id: 3
+label: LawP
+longName: lawyers
+name: Lawyers
+penaltyLength: 12
+penaltyLowerBound: 8
+price: 6168
+sprite:
+  filename: cargoes/lawyers.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 32
