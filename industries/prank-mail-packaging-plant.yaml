@@ -24,6 +24,6 @@ tiles:
     drawType: recolour
     sprite:
       filename: industries/prank-mail-packaging-plant/1.png
-      left: -24
-      top: -32
+      left: -38
+      top: -38
 type: secondary
