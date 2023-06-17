@@ -2,7 +2,8 @@ available: false
 callbacks: ''
 cargoAcceptance:
 - Laws
-cargoProduction: []
+cargoProduction:
+- LawP
 colour: 1
 fundCostMultiplier: 100
 id: 2
