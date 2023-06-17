@@ -2,16 +2,28 @@ available: false
 callbacks: ''
 cargoAcceptance:
 - Poop
-cargoProduction: []
+cargoProduction:
+- PMAL
 colour: 1
 fundCostMultiplier: 100
 id: 1
 layout:
-- - - -1
+- - - 0
 name: Prank Mail Packaging Plant
 placement: in-town
 probabilityInGame: 5
 probabilityMapGen: 3
 prospectChance: 0
-tiles: []
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      id: 3924
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/prank-mail-packaging-plant/1.png
+      left: -24
+      top: -32
 type: secondary
