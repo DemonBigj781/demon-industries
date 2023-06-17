@@ -7,7 +7,7 @@ label: Poop
 longName: poop
 name: Poop
 penaltyLength: 0
-penaltyLowerBound: 0
+penaltyLowerBound: 255
 price: 2920
 sprite:
   filename: cargoes/poop.png

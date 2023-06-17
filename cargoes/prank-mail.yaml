@@ -1,0 +1,17 @@
+abbreviation: PM
+available: true
+classes: 2
+colour: 68
+id: 1
+label: PMAL
+longName: prank mail
+name: Prank Mail
+penaltyLength: 23
+penaltyLowerBound: 24
+price: 4112
+sprite:
+  filename: cargoes/prank-mail.png
+  left: 0
+  top: 0
+unitName: Bags
+weight: 18
