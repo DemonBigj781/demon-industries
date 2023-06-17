@@ -1,0 +1,17 @@
+abbreviation: LS
+available: false
+classes: 2
+colour: 1
+id: 2
+label: Laws
+longName: lawsuit papers
+name: Lawsuit Papers
+penaltyLength: 5
+penaltyLowerBound: 11
+price: 4112
+sprite:
+  filename: cargoes/lawsuit-papers.png
+  left: 0
+  top: 0
+unitName: Bags
+weight: 8
