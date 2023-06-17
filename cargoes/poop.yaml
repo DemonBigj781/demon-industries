@@ -1,0 +1,17 @@
+abbreviation: Po
+available: true
+classes: 320
+colour: 63
+id: 0
+label: Poop
+longName: poop
+name: Poop
+penaltyLength: 0
+penaltyLowerBound: 0
+price: 2920
+sprite:
+  filename: cargoes/poop.png
+  left: 0
+  top: 0
+unitName: Litres
+weight: 17
