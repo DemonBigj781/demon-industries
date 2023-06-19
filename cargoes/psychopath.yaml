@@ -1,0 +1,17 @@
+abbreviation: PY
+available: false
+classes: 1
+colour: 1
+id: 5
+label: PHYC
+longName: psychopath
+name: Psychopath
+penaltyLength: 0
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/psychopath.png
+  left: 0
+  top: 0
+unitName: Passengers
+weight: 3

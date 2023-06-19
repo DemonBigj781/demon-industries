@@ -1,0 +1,17 @@
+abbreviation: Pr
+available: false
+classes: 1
+colour: 1
+id: 4
+label: Poor
+longName: poor people
+name: Poor People
+penaltyLength: 0
+penaltyLowerBound: 255
+price: 4112
+sprite:
+  filename: cargoes/poor-people.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 4

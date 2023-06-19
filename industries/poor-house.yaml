@@ -1,0 +1,18 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- Poor
+cargoProduction:
+- PHYC
+colour: 1
+fundCostMultiplier: 100
+id: 4
+layout:
+- - - -1
+name: Poor House
+placement: in-large-town
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 0
+tiles: []
+type: secondary

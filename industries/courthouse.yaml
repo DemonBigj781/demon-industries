@@ -1,0 +1,18 @@
+available: false
+callbacks: ''
+cargoAcceptance:
+- LawP
+cargoProduction:
+- Poor
+colour: 1
+fundCostMultiplier: 100
+id: 5
+layout:
+- - - -1
+name: Courthouse
+placement: in-large-town
+probabilityInGame: 5
+probabilityMapGen: 3
+prospectChance: 75
+tiles: []
+type: primary
